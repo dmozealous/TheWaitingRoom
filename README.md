@@ -82,3 +82,34 @@ Game Development Iteration 1:
 * The final PHP and JavaScript code ensured the game started the timer upon check-in, played looping background music, and handled button clicks correctly without affecting the timer or stopping the music.
 
 The final setup provided a consistent user experience with the game mechanics working as intended, including sound effects and background music.
+
+---
+
+## Summary of Changes and Updates in Iteration 2
+
+After some period of time, the ChatGPT window became so long it was hard to navigate, and successive requests weren't doing what I asked. What I did was start a new chat, provide the PHP file, then asked for bug fixes. This seemed to work fairly well.
+
+**Total ChatGPT-4o questions and commands to get to updated/current state:** 28
+
+### Initial Requests and Changes:
+1. **Play Audio on Button Click**:
+   - Implemented functionality to play `patient.mp3` when the "Check Status" button is clicked.
+   - Ensured that `music.mp3` continues playing in the background.
+
+2. **CSS Updates**:
+   - Added a drab green color to the buttons.
+   - Moved CSS to a separate `style.css` file for better organization.
+
+### Audio Playback Issues on iOS:
+3. **iOS Audio Playback Fixes**:
+   - Ensured audio playback is initiated within user interaction events to comply with iOS restrictions.
+   - Added `onclick` events to play music and status sounds correctly.
+
+### Volume Adjustment:
+4. **Volume Reduction**:
+   - Reduced the volume of the background music to 10% by setting `musicElement.volume = 0.1`.
+
+### Game State Reset on Refresh:
+5. **Game Reset on Refresh**:
+   - Modified the code to reset the game state every time the page is refreshed, ensuring the user needs to check in again.
+
