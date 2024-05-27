@@ -1,3 +1,0 @@
-The Waiting Room Simulator
-===============
-
