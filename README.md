@@ -9,7 +9,8 @@ The test, ask ChatGPT to come up with an idea for a new game, then test if ChatG
 **Here are the results:**
 ===============
 
-I asked ChatGPT-4o, > come up with an idea for the worst video game of all time?
+I asked ChatGPT-4o:
+> come up with an idea for the worst video game of all time?
 
 **Game Title:** "Waiting Room Simulator"
 
