@@ -4,7 +4,7 @@ This is the AI generated code from ChatGPT-4o for http://thewaitingroomsimulator
 
 The website is hosted on AWS LightSail.
 
-Initial itteration of this was an idea for a new game, then testing if ChatGPT-4o could do all of the coding, image, and sound generation for the game.
+Initial iteration of this was an idea for a new game, then testing if ChatGPT-4o could do all of the coding, image, and sound generation for the game.
 
 Here was itteration 1:
 
