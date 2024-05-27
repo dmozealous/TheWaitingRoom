@@ -112,4 +112,5 @@ After some period of time, the ChatGPT window became so long it was hard to navi
 ### Game State Reset on Refresh:
 5. **Game Reset on Refresh**:
    - Modified the code to reset the game state every time the page is refreshed, ensuring the user needs to check in again.
+   - Dave's Note: This code still isn't working correctly so I reverted it
 
