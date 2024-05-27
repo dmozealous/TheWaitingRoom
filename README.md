@@ -89,6 +89,8 @@ The final setup provided a consistent user experience with the game mechanics wo
 
 After some period of time, the ChatGPT window became so long it was hard to navigate, and successive requests weren't doing what I asked. What I did was start a new chat, provide the PHP file, then asked for bug fixes. This seemed to work fairly well.
 
+What was interesting about this Iteration, was that ChatGPT started to optimize the file structure, separating out the timer into it's own PHP file, and then I asked it to do the same with the CSS to make the code more managable, and easier to maintain.
+
 **Total ChatGPT-4o questions and commands to get to updated/current state:** 28
 
 ### Initial Requests and Changes:
