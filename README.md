@@ -48,6 +48,7 @@ To endure as long as possible without quitting out of sheer boredom or frustrati
 
 Game Development Iteration 1:
 ===============
+**Total ChatGPT-4o questions and commands to get to initial state:** 28
 
 **Game Concept and Development**
 
